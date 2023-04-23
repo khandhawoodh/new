@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://khandhawoodh.github.io/new/static/css/main.e6c13ad2.css",
+    "main.js": "https://khandhawoodh.github.io/new/static/js/main.2cb8e321.js",
+    "static/js/787.f57f07ab.chunk.js": "https://khandhawoodh.github.io/new/static/js/787.f57f07ab.chunk.js",
+    "index.html": "https://khandhawoodh.github.io/new/index.html",
+    "main.e6c13ad2.css.map": "https://khandhawoodh.github.io/new/static/css/main.e6c13ad2.css.map",
+    "main.2cb8e321.js.map": "https://khandhawoodh.github.io/new/static/js/main.2cb8e321.js.map",
+    "787.f57f07ab.chunk.js.map": "https://khandhawoodh.github.io/new/static/js/787.f57f07ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.2cb8e321.js"
+  ]
+}
